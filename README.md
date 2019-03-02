@@ -276,15 +276,14 @@ Here's the mapping.
 
 | GitHub Repo source | GitHub Pages URL |
 | --- | --- |
-| `https://github.com/<username>/100-days-log/docs/` | `https://<username>.github.io/100-days-log/` |
+| `https://github.com/<username>/100-days-log-template/docs/` | `https://<username>.github.io/100-days-log-template/` |
 
 Here are some paths and their URL mapping.
 
 | GitHub Repo source | GitHub Pages URL |
 | --- | --- |
-| `/docs/README.md` | `https://<username>.github.io/100-days-log/index.html` |
-| `/docs/log1.md` | `https://<username>.github.io/100-days-log/log1.html` |
-| `/docs/my-notes.md` | `https://<username>.github.io/100-days-log/my-notes.html` |
-| `/docs/logs/page1.md` | `https://<username>.github.io/100-days-log/logs/page1.html` |
-| `/docs/school-notes/cs101.md` | `https://<username>.github.io/100-days-log/school-notes/cs101.html` |
-
+| `/docs/README.md` | `https://<username>.github.io/100-days-log-template/index.html` |
+| `/docs/log1.md` | `https://<username>.github.io/100-days-log-template/log1.html` |
+| `/docs/my-notes.md` | `https://<username>.github.io/100-days-log-template/my-notes.html` |
+| `/docs/logs/page1.md` | `https://<username>.github.io/100-days-log-template/logs/page1.html` |
+| `/docs/school-notes/cs101.md` | `https://<username>.github.io/100-days-log-template/school-notes/cs101.html` |
