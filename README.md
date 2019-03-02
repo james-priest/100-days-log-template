@@ -70,8 +70,8 @@ Fork and clone the repo, then use Bundler to install the gem dependencies.
 2. Clone (or download) the repo.
 
     ```bash
-    $ git clone https://github.com/<username>/100-days-log.git
-    $ cd 100-days-log/docs/
+    $ git clone https://github.com/<username>/100-days-log-template.git
+    $ cd 100-days-log-template/docs/
     >
     ```
 
